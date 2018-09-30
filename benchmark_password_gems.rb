@@ -19,7 +19,7 @@ gems = {
   "fnando/password_strength" => 100,
   "bdmac/strong_password   " => 10_000
 }
-
+puts "Gem Name                 Length"
 Benchmark.bm(35) do |x|
   10.times do |i|
     gems.each do |gem_name, multiplier|
