@@ -33,4 +33,7 @@ bdmac/strong_password    [10240000] 234.600000  28.840000 263.440000 (265.243468
 
 This data can be seen graphed here:
 
+![fnando/password_strength](fnando%2Fpassword_strength.png "fnando/password_strength")
+![bdmac/strong_password](bdmac%2Fstrong_password.png "bdmac/strong_password")
+
 [Google Sheet](https://docs.google.com/spreadsheets/d/1zhLz7iRuo4nt-HD9B9eN7nh_ejaoAlO9K8ZO6tngZwM/edit#gid=0)
