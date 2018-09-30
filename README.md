@@ -7,7 +7,7 @@ Compare password checker gems with long passwords
  - [bdmac/strong_password](https://github.com/bdmac/strong_password)
 
 Sample out
-```ruby
+```
 Gem Name                 Length
                                           user     system      total        real
 fnando/password_strength [200]        0.010000   0.000000   0.010000 (  0.005736)
